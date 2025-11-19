@@ -6,7 +6,7 @@ This repository contains the full codebase for training the RABIT model and runn
 
 We further validated RABIT’s ability to encode clincially and biologically useful information by demonstrating significant improvements in disease-onset prediction over EHR-only models across two independent validation cohorts spanning the UK and Stanford Health Care. To illustrate its potential impact, we also performed an “instant” retrospective cohort study predicting anti-TNF response in rheumatoid arthritis using 687 patients, a cohort multiple times larger than most published analyses, thereby enhancing both predictive performance and the discovery of mechanistic biomarker candidates.
 
-RABIT was designed to exponentially scale and accelerate biomedical research, with broad applicability across diseases and clinical fields. Our goal is for RABIT to shift the paradigm of high-dimensional biological research by removing the traditional logistical and financial barriers to enable creative biomedical research across all domains. 
+RABIT was designed to exponentially scale and accelerate biomedical research, with broad applicability across diseases and clinical fields. Our goal is for RABIT to transform the paradigm of high-dimensional biological research by removing the traditional logistical and financial barriers to enable creative biomedical research across all domains, allowing both scientists and clinicians to rapidly test hypothesis using cohorts magnitudes larger than those using traditional methods. 
 
 ## Installation and Usage
 First, clone the repo:
